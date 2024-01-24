@@ -14,7 +14,7 @@ I worked 10 years in Healthcare,
  & now I'm here, learning _Web development_.  
   
 
-- 🌱 I’m currently learning Web development at Coding Bootcamps Europe  
+- 🌱 I’m currently learning Web development at Coding Bootcamps Europe.  
   
 
 - ⚡ Fun fact: In my time off-work you either find me outside on my bike or at a hike.  
