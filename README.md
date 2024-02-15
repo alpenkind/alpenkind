@@ -46,7 +46,7 @@ I worked 10 years in Healthcare,
  
 
 <br/>  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpenkind"/>
 
 <br/>
 
