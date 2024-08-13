@@ -63,10 +63,10 @@
 ###
 
 <div align="center">
-  <img
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpenkind&langs_count=8&theme=tokyonight)](https://github.com/alpenkind/github-readme-stats)
->
-
+  <a href="https://github.com/alpenkind/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpenkind&langs_count=8&theme=tokyonight" alt="Top Langs">
+  </a>
 </div>
+
 
 ###
