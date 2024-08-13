@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
- <img src="https://github-readme-stats-qksb-vanessas-projects-4e7111c8.vercel.app/api/top-langs/?username=alpenkind&theme=tokyonight"> 
+ <img src="https://github-readme-stats-qksb-vanessas-projects-4e7111c8.vercel.app/api/top-langs/?username=alpenkind&langs_count=8&theme=tokyonight"> 
 </div>
 
 ###
