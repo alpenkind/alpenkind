@@ -62,7 +62,7 @@
 
 ###
 
-<div align="center"><img src="https://github-readme-stats-qksb-vanessas-projects-4e7111c8.vercel.app/api/top-langs/?username=alpenkind&hide_border=true&layout=compact&theme=tokyonight&langs_count=8" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-qksb-vanessas-projects-4e7111c8.vercel.app/api/top-langs/?username=alpenkind&hide_border=false&layout=compact&theme=tokyonight&langs_count=8" align="center" /></div>  
 
 <div align="center">
   <a href="https://github.com/alpenkind/github-readme-stats">
