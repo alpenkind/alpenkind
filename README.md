@@ -6,7 +6,10 @@
 
 ###
 
-<p align="left">I'm 31 years old and live in Germany. I worked in healthcare for 10 years, took a 2 year detour into pro cycling journalism & audience development & now I'm here, learning web development and simply love it.</p>
+<p align="left"><p align="left">
+Frontend developer based in Germany, focused on React and TypeScript. Former healthcare professional with 10 years of experience, followed by a short detour into cycling journalism and audience development. Transitioned into tech through a bootcamp and professional experience as trainee and junior developer. Passionate about clean UI, modern frontend tooling, and growing into fullstack development.
+</p>
+.</p>
 
 ###
 
